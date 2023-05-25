@@ -1,0 +1,86 @@
+[
+    {
+        "id": "63339e71ff0e553b35b95c19",
+        "first_name": "Yoland",
+        "last_name": "Regis",
+        "address": {
+            "street_no": "90 Anse La Raye",
+            "city": "Gros Islet",
+            "country": "St.Lucia"
+        }
+    },
+    {
+
+        "first_name": "Natasha",
+        "last_name": "Alcide",
+        "address": {
+            "street_no": "7 Micoud Street",
+            "city": "Gros Islet",
+            "country": "St.Lucia"
+        }
+    },
+    {
+        "first_name": "Charlene",
+        "last_name": "Toussaint",
+        "address": {
+            "street_no": "98 Gran Rivere",
+            "city": "Gros Islet",
+            "country": "St.Lucia"
+        }
+    },
+    {
+        "first_name": "Levi",
+        "last_name": "Poleon",
+        "address": {
+            "street_no": "10 Clark Avenue",
+            "city": "Micoud",
+            "country": "St.Lucia"
+        }
+    },
+    {
+        "first_name": "Amani",
+        "last_name": "Alexander",
+        "address": {
+            "street_no": "12 Bonne Terre",
+            "city": "Rodney Bay",
+            "country": "St.Lucia"
+        }
+    },
+    {
+        "first_name": "Cobie",
+        "last_name": "Charles",
+        "address": {
+            "street_no": "45 Victoria Street",
+            "city": "Brampton",
+            "country": "Canada"
+        }
+    },
+    {
+        "first_name": "Lara",
+        "last_name": "Desir",
+        "address": {
+            "street_no": "34 Pennyroyal Crescent",
+            "city": "Brampton",
+            "country": "Canada"
+        }
+    },
+    {
+        "first_name": "Kenny",
+        "last_name": "Dizz",
+        "address": {
+            "street_no": "345 Louis Street",
+            "city": "Atlanta",
+            "country": "USA"
+        }
+    
+    },
+    {
+        "first_name": "Fran",
+        "last_name": "St.Clair",
+        "address": {
+            "street_no": "5 Bonne Terre Gap",
+            "city": "Gros Islet",
+            "country": "St. Lucia"
+        }
+    }
+]
