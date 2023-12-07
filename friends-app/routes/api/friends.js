@@ -34,7 +34,7 @@ router.get('/:id', (req, res) => {
         if (err) {
             return res.status(400).send(`Error: ${err.message}`)
         }
-        if (!friend) {  //handles if no song found
+        if (!friend) {  //handles if no friend found
             return res.status(404).send()
         }
         return res.json(friend)
@@ -57,8 +57,8 @@ router.post('/create', (req, res) => {   //for createform we have to send along 
         console.log("ERRORS NO")
 
 
-        // res.send(`CREATE SONG ENDPOINT WAS REACHED`);
-        Friend.create(req.body, (err, newFriend) => {        //take body that came from req and create a song from it
+        // res.send(`CREATE FRIEND ENDPOINT WAS REACHED`);
+        Friend.create(req.body, (err, newFriend) => {        //take body that came from req and create a friend from it
             console.log(newFriend);
             if (err) {
                 console.log(err)
